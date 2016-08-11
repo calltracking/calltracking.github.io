@@ -41,6 +41,11 @@ a {
   text-decoration: none;
 }
 
+a.large {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 p {
   margin: 0 0 20px;
   padding: 0;
